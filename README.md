@@ -11,6 +11,11 @@ The objective is to identify sales trends, understand customer purchasing behavi
 
 ---
 
+## Dataset
+
+- Dataset: Online Retail Transaction Dataset
+- Time Period: 2009 - 2011
+
 ## Tools
 
 - Excel
